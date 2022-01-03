@@ -22,7 +22,7 @@ A crowdFunding smart contract where a project gets funded by raising amounts of 
 ## Goals: 
 1. A Fund creator contract which is the main contract. 
 
-2. A Crowfunding contract which allows anyone to get donations for calls. It contains some variables such as: number of contributors, minimum amount of contribution, contribution deadline, goal and raised amounts. 
+2. A crowfunding contract which allows anyone to get donations for calls. It contains some variables such as: number of contributors, minimum amount of contribution, contribution deadline, goal and raised amounts. 
 
 3. An admin struct request that requests the raised amount and draws it. It contains a description of the request, an address of the recipient as well as voters numbers and addresses.
 
