@@ -1,8 +1,8 @@
-# Project Proposal
+### Project Proposal
 
-# Group Number: 7
+### Group Number: 7
 
-## Group Name - ABT
+### Group Name - ABT
 
 ## Group Members:
 ### - Abdullah Al-Anazi
