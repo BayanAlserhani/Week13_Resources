@@ -39,8 +39,6 @@ A crowdFunding smart contract where a project gets funded by raising amounts of 
 9. A make payment function which allows contributors to make payments.  
 
 
-...
-
 ## Presentation Time Estimate:
 25 minutes + Q/A
 
