@@ -24,7 +24,7 @@ A crowdFunding smart contract where a project gets funded by raising amounts of 
 
 2. A crowdfunding contract that allows anyone to get donations for calls. It contains some variables such as the number of contributors, minimum amount of contribution, contribution deadline, goal, and raised amounts.
 
-3. An admin struct request that requests the raised amount and draws it. It contains a description of the request, an address of the recipient as well as voter's numbers and addresses.
+3. An admin struct request that requests the raised amount and draws it. It contains a description of the request, an address of the recipient as well as voters' numbers and addresses.
 
 4. Some events specify whenever an amount or request or payment is made.
 
